@@ -1,7 +1,7 @@
 # HR-Data-Analytics
 
-In a company there are around 4500 employees and every year 15% employees are leaving the company.We have to analyze the reason as well as we will predict based on the feature if employee will leave the company or not.
-So we have 5 datasets for this particular problem:
+This project predicts whether the employees will leave the company or not by using Decision Tree Classifier. With the help of Exploratory Data Analysis we drew few conclusions as well.
+<br>So we have 5 datasets for this particular problem:
 <li>general_data - It contains general information
 <li>manager_survey_data - It contains survey data of manager.
 <li>employee_survey_data - It contains survey data of employee.
